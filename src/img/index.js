@@ -1,0 +1,13 @@
+export const BeMyEyes = require('./beMyEyes.jpg');
+export const Ecuador = require('./ecuador.png');
+export const DefaultProfile = require('./default.jpg');
+export const GuiaRodas = require('./guiaRodas.jpg');
+export const Empty = require('./empty.png');
+export const HandTalk = require('./handTalk.jpg');
+export const VLibras = require('./vLibras.jpg');
+export const One = require('./one.svg');
+export const Two = require('./two.svg');
+export const Three = require('./three.svg');
+export const Logo = require('./logo.png');
+export const NotFound = require('./not-found.svg');
+export const Libras = require('./libras.png');
